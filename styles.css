@@ -1,0 +1,9 @@
+ul {
+    box-sizing: border-box;
+    background-color: purple;
+}
+a {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+}
