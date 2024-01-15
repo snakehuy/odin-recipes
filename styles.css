@@ -1,9 +1,14 @@
-ul {
-    box-sizing: border-box;
-    background-color: purple;
+*{
+background-color: purple;
 }
-a {
+
+.link {
     color: white;
     font-family: 'Courier New', Courier, monospace;
     font-size: 32px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
