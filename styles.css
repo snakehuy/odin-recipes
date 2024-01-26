@@ -1,14 +1,13 @@
 *{
 background-color: purple;
+font-family: monospace;
 }
 
 .link {
     color: white;
-    font-family: 'Courier New', Courier, monospace;
     font-size: 32px;
 }
 h1 {
     text-align: center;
-    color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white; 
 }
